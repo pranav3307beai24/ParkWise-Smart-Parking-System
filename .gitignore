@@ -46,3 +46,5 @@ frontend/uploads/profiles/*
 # Backend uploaded profile photos
 public/uploads/profiles/*
 !public/uploads/profiles/.gitkeep
+
+
